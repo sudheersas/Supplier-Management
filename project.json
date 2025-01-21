@@ -2,7 +2,7 @@
   "name": "REF_Supplier management",
   "projectId": "ba7cc210-88b6-450e-9e57-d103e96f8360",
   "description": "Robotic Enterprise Framework",
-  "main": "Supplier_Management\\Main.xaml",
+  "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.24.4]",
     "UiPath.System.Activities": "[24.10.7]",
@@ -91,8 +91,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Supplier_Management\\Main.xaml",
-      "uniqueId": "43e86128-91d7-4f65-9181-fa2116258e23",
+      "filePath": "Main.xaml",
+      "uniqueId": "24383032-39cf-41db-9101-5ee5c0189bfa",
       "input": [],
       "output": []
     }
