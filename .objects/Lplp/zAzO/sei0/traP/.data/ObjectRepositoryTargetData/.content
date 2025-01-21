@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jk0ltAlRzkmz-zKg8LK3uA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpasamples.com/suppliers" CVScreenId="d5080af8-d934-4fc7-a9f2-5faed807d5f0" CvElementArea="1387, 891, 179, 53" CvTextArea="1452, 909, 46, 19" CvTextArgument="Save" CvType="Button" DesignTimeRectangle="1408, 903, 137, 28" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='id__267' tag='SPAN' type='' class='ms-Button-label label-178' aaname='Save' check:innerText='Save' /&gt;" Guid="1aedc60d-3f46-44ce-acff-83a27ab54653" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiPath Demo App' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3d7679df0ae09de87e4fb144c999d74a.png" xmlns="">0Yilg4UbMlkOd8zixTE9o6w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

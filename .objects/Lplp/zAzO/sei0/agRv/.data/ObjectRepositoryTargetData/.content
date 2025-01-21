@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ns1QQMkzFUao78W0qCBkZg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpasamples.com/suppliers" CVScreenId="96da2678-7fc4-4f15-bf9c-0ee6c2ea98cb" CvElementArea="498, 797, 353, 54" CvType="InputBox" DesignTimeRectangle="502, 801, 345, 46" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='TextField249' tag='INPUT' type='text' class='ms-TextField-field field-146' aaname='State' /&gt;" Guid="bb8e017c-fbd4-46c4-a95e-3fa04a85596a" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiPath Demo App' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="96da2678-7fc4-4f15-bf9c-0ee6c2ea98cb" CvTextArea="500, 771, 48, 18" CvTextArgument="State" CvType="Text" DesignTimeRectangle="501, 758, 347, 42" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='TextFieldLabel251' tag='LABEL' type='' class='ms-Label root-152' aaname='State' check:innerText='State' /&gt;" Guid="85de35a6-18bc-41ae-99b7-64a9beaefdbb" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="eef4db100f4fbf8e7d59092b08463be2.png" xmlns="">0Gh68ktam3U2-U-QIUU3EqA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

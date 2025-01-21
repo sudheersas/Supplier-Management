@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome RPA Sample Apps",
+  "Type": "Screen",
+  "Id": "sei0S1NK0ECogyODuU2UeQ",
+  "Reference": "A9_81Dj8ME6_YCxuyu0TuA/sei0S1NK0ECogyODuU2UeQ",
+  "ParentRef": "A9_81Dj8ME6_YCxuyu0TuA/zAzOZbp9N0CBRjgQ6uCVrw",
+  "Created": "2025-01-08T09:41:57.8689947Z",
+  "Updated": "2025-01-08T09:41:57.8689947Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_YuAmZIYjE-zLXRYaCQtpg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpasamples.com/suppliers" CVScreenId="a3305453-c2f4-4098-9942-f359bbc39c7f" CvElementArea="129, 726, 258, 52" CvType="InputBox" DesignTimeRectangle="132, 728, 252, 46" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aria-role='combobox' tag='INPUT' type='text' class='ms-TextField-field field-173' placeholder='Select a date...' aaname='Date' /&gt;" Guid="2823ec35-1225-432a-99fc-d9d5fb821a9c" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiPath Demo App' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a3305453-c2f4-4098-9942-f359bbc39c7f" CvTextArea="129, 696, 43, 19" CvTextArgument="Date" CvType="Text" DesignTimeRectangle="131, 685, 254, 42" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='TextFieldLabel239' tag='LABEL' type='' class='ms-Label root-152' aaname='Date' check:innerText='Date' /&gt;" Guid="76edfdb6-8f52-4a29-abe3-b892944f2a7d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b8f8267be11c39d765ae92f06d3a00a9.png" xmlns="">0GqvIrZmmR0-qTyf0in7pBQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

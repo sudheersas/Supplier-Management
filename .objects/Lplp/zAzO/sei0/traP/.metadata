@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Save_Click",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "traPxSkux0-1q31pKzROGg",
+  "Reference": "A9_81Dj8ME6_YCxuyu0TuA/traPxSkux0-1q31pKzROGg",
+  "ParentRef": "A9_81Dj8ME6_YCxuyu0TuA/sei0S1NK0ECogyODuU2UeQ",
+  "Created": "2025-01-08T09:58:10.7433324Z",
+  "Updated": "2025-01-08T09:58:10.7433324Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

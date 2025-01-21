@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jR1Vxr1g80GKAhFr77K3Zg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpasamples.com/suppliers" CVScreenId="6a5d4739-8bca-4129-8abb-7e134bb11231" CvElementArea="128, 627, 35, 35" CvType="CheckBox" DesignTimeRectangle="136, 633, 21, 21" DesignTimeScaleFactor="1.5" FuzzySelectorArgument="&lt;webctrl aaname='' tag='I' type='' class='ms-Checkbox-checkmark checkmark-166' check:innerText='' /&gt;" Guid="ed285f15-01f0-4257-858a-c763ab0970f6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiPath Demo App' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d4917d7d0d4bf78a4df176705901139b.png" xmlns="">0B0_VSDorI06fNXmsc9SDlQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

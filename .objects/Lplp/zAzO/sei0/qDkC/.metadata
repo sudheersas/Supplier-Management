@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Link",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "qDkC4NzNck-IdbPDZfdpQA",
+  "Reference": "A9_81Dj8ME6_YCxuyu0TuA/qDkC4NzNck-IdbPDZfdpQA",
+  "ParentRef": "A9_81Dj8ME6_YCxuyu0TuA/sei0S1NK0ECogyODuU2UeQ",
+  "Created": "2025-01-08T09:54:52.4081403Z",
+  "Updated": "2025-01-08T09:54:52.4081403Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
